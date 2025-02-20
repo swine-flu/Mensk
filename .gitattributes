@@ -1,0 +1,17 @@
+# Binary files
+*.dat binary
+*.hof binary
+*.psf binary
+
+# Readme file
+readme.now text working-tree-encoding=cp866
+
+# C/C++ Header & Source files
+*.h text working-tree-encoding=cp866
+*.hh text working-tree-encoding=cp866
+*.hpp text working-tree-encoding=cp866
+*.hxx text working-tree-encoding=cp866
+*.c text working-tree-encoding=cp866
+*.cc text working-tree-encoding=cp866
+*.cpp text working-tree-encoding=cp866
+*.cxx text working-tree-encoding=cp866
